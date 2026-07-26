@@ -1,17 +1,14 @@
-## ATM MACHINE
+# 🏧 ATM Machine
 
-This is readme file:
+A simple ATM Machine project developed in C that simulates basic banking operations such as balance inquiry, cash withdrawal, deposit, and PIN verification.
 
-1. Open ATM.c (source file) and save the program
+## How to Run
 
-2. Open ATM.exe file to run the program
+1. Open `ATM.c` in Visual Studio or any C compiler.
+2. Compile and run the program.
+3. Alternatively, run the `ATM.exe` file directly.
 
-## Software Requirement
+## Software Requirements
 
 - C
 - Visual Studio
-
-## Screenshot
-
-
-
